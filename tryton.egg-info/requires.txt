@@ -1,0 +1,10 @@
+python-dateutil
+
+[cdecimal]
+cdecimal
+
+[timezone]
+pytz
+
+[simplejson]
+simplejson
